@@ -17,6 +17,7 @@ public class HomeActivity extends Activity {
         Uri.Builder builder = new Uri.Builder();
         AsyncHttpRequest task = new AsyncHttpRequest(this);
 		task.execute(builder);
+		// リポジトリ運用のテストです。 Fork → クローン作成 → コミット → プルリクエスト のパターンです
     }
 
 
