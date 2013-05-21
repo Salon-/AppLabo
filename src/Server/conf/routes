@@ -1,11 +1,11 @@
 # Routes
 # This file defines all application routes (Higher priority routes first)
-# ~~~~
+# 窶ｾ窶ｾ窶ｾ窶ｾ
 
 # Home page
 GET     /                           controllers.Application.index
 
-# 動作確認サンプル
+# 蜍穂ｽ懃｢ｺ隱阪し繝ｳ繝励Ν
 GET     /sample1                    controllers.SampleController.sample1
 GET     /sample2                    controllers.SampleController.sample2
 
